@@ -42,3 +42,8 @@ jupyter notebook "Credit Card Fraud Detection.ipynb"
 ## Tech stack
 
 Python, pandas, NumPy, scikit-learn, imbalanced-learn, seaborn, matplotlib
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
